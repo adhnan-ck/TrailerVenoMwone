@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TrailerVenoMwone/static/css/main.3a201e99.css",
+    "main.js": "/TrailerVenoMwone/static/js/main.8384dd2f.js",
+    "static/js/787.0904c1f0.chunk.js": "/TrailerVenoMwone/static/js/787.0904c1f0.chunk.js",
+    "index.html": "/TrailerVenoMwone/index.html",
+    "main.3a201e99.css.map": "/TrailerVenoMwone/static/css/main.3a201e99.css.map",
+    "main.8384dd2f.js.map": "/TrailerVenoMwone/static/js/main.8384dd2f.js.map",
+    "787.0904c1f0.chunk.js.map": "/TrailerVenoMwone/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a201e99.css",
+    "static/js/main.8384dd2f.js"
+  ]
+}
